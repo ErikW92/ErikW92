@@ -1,4 +1,4 @@
-👋 Hi, Erik here! Founder and CEO of 14agency.de
+👋 Hi, Erik here! Founder and CEO of https://14agency.de
 I want to give something back to the community with my content here. Feel free to write to me if you have any questions!
 
 <!---
